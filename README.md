@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OMTALWAR
 - 👀 I’m interested in freelancing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m a Professional Front-end Developer and a Digital Marketing Specialist
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me Gmail- omtalwar7@gmail.com
 
