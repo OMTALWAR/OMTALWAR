@@ -58,7 +58,7 @@
   <a href="">
     <img align="center" alt="Om @Twitter" width="50px" src="assets/handles/discord.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
-  <a href="https://www.instagram.com/isshefalguni">
+  <a href="https://www.instagram.com/talwar_om">
     <img align="center" alt="Om @Instagram" width="50px" src="assets/handles/instagram.svg" />&nbsp;
   </a>
 </p>
