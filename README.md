@@ -13,7 +13,7 @@
 -   🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
 -   🌌 I'm a space nerd! <img src="assets/gifs/Rocket.gif" width="10px" align="right" />
 -   📥 Drop your queries <a target="_blank" href="mailto:omtalwar7@gmail.com">omtalwar7@gmail.com</a>.
--   😅 Mostly active on instagram <a href="https://www.instagram.com/talwar_om/">talwar_om</a>.
+-   😅 Mostly active on instagram <a href="https://www.instagram.com/codingsudo/">coding_sudo</a>.
 -   😄 Pronouns: [He/Him]
 <hr>
 
